@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Vidaloka:400italic,400);
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400italic,400);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic,700);
+
+/* This are also nice but not used here...
+@import url(http://fonts.googleapis.com/css?family=EB+Garamond:400italic,400);
+@import url(http://fonts.googleapis.com/css?family=Prata:400italic,400);
+*/
+
+body { 
+	font-family: "Libre Baskerville", serif; 
+	padding: 2cm 0 2cm 0;
+	margin: 0 auto;
+	width: 640px;
+	text-align: center;
+	color: black;
+}
+
+h1, h2, h3 { font-weight: 400; text-align: center; }
+
+h1 { font-size: 72px; line-height: 1em; }
+h2 { font-size: 36px; }
+h3 { font-size: 18px; }
+
+h1 span { display: block; letter-spacing: 8px; }
+
