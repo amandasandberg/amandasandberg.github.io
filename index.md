@@ -3,7 +3,9 @@ layout: default
 title: "Amanda Sandberg Översättning"
 ---
 
-# <a href="mailto:amandasandberg@hotmail.com"><span>amanda</span> sandberg</a>
+<img src="jag.png" style="float: right;"/>
+
+# <a href="mailto:amandasandberg@hotmail.com"><span>Amanda</span> Sandberg</a>
 
 <table width="100%">
 <tr>
@@ -19,11 +21,11 @@ title: "Amanda Sandberg Översättning"
 
 <tr>
 <td><p lang="sv">Översättning av ...
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+
 </p>
 </td>
 <td><p lang="de">Übersetzung von ...
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+
 </p>
 </td>
 </tr>
@@ -39,19 +41,41 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 </tr>
 
 <tr>
-<td><p lang="sv">studium, översättare ...
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+<td><p lang="sv">
+<center><a href="CV_AmandaSandberg.pdf">CV</a></center>
 </p>
 </td>
-<td><p lang="de">Studium, (freiberuflich) Übersetzer ...
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+<td><p lang="de">
+<center><a href="Lebenslauf_AmandaSandberg.pdf">Lebenslauf</a></center>
 </p>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<p>
+<b>Magisterarbete/Magisterarbeit:</b> <a href="http://lnu.diva-portal.org/smash/get/diva2:852424/FULLTEXT01.pdf">"die Pracht des ganzen Ensembles": <br/><i>Eine Untersuchung zur Übertragung von Stil in Bezug auf Wortwahl und Metaphern</i></a> (<a href="http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-46173">DiVA</a>)
+</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<th width="50%" lang="sv"><h3>arbetsprover</h3></th>
+<th lang="de"><h3>Arbeitsproben</h3></th>
+</tr>
 
 <tr>
-<th lang="sv"><h3>arbetsprover</h3></th>
-<th lang="de"><h3>Arbeitsproben</h3></th>
+<td lang="sv">
+<p>
+<b>Magisterarbete:</b> Översättning av ett kapitel ur <i>Kafka: Die Jahre der Erkenntnis</i> (2008): <a href="översättningSV_amanda_sandberg.pdf">Guldmakaren</a>
+</p>
+</td>
+<td lang="de">
+<p>
+<b>Magisterarbeit:</b> Übersetzung eines Kapitels aus <i>Kafka: Die Jahre der Erkenntnis</i> (2008): <a href="översättningSV_amanda_sandberg.pdf">Guldmakaren</a>
+</p>
+</td>
 </tr>
 
 </table>

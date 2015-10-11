@@ -16,13 +16,17 @@ body {
 
 h1, h2, h3 { font-weight: 400; text-align: center; }
 
-h1 { font-size: 72px; line-height: 1em; }
+h1 { font-size: 60px; line-height: 1em; }
 h2 { font-size: 36px; }
-h3 { font-size: 18px; font-style: italic; }
+h3 { font-size: 18px; font-style: italic; margin-bottom: 0; }
 
-h1 span { display: block; letter-spacing: 8px; }
+h1 span { }
 h1 a { text-decoration: none; color: black; }
 
 p { text-align: justify; padding: 1em; }
+
+a { text-decoration: none; }
+
+table { margin-top: 1em; }
 
 .footer { font-size: 90%; margin: 3em 1em; line-height: 2em;}
