@@ -11,23 +11,14 @@ title: "Amanda Sandberg Översättning"
 <tr>
 <th width="50%">
 <h2 lang="sv">översättning</h2>
+och tolkning
 <h3 lang="sv">svenska&nbsp;&mdash;&nbsp;tyska<br/>tyska&nbsp;&mdash;&nbsp;svenska</h3>
 </th>
 <th>
 <h2 lang="de">Übersetzung</h2>
+und Dolmetschen
 <h3 lang="de">Swedisch&nbsp;&mdash;&nbsp;Deutsch<br/>Deutsch&nbsp;&mdash;&nbsp;Schwedisch</h3>
 </th>
-</tr>
-
-<tr>
-<td><p lang="sv">Översättning av ...
-
-</p>
-</td>
-<td><p lang="de">Übersetzung von ...
-
-</p>
-</td>
 </tr>
 </table>
 
@@ -41,14 +32,16 @@ title: "Amanda Sandberg Översättning"
 </tr>
 
 <tr>
-<td><p lang="sv">
-<center><a href="CV_AmandaSandberg.pdf">CV</a></center>
+<td valign="top"><p lang="sv">Mitt namn är Amanda och mina främsta intressen är språk och litteratur. Jag har en magister-examen i tyska med inriktning mot facköversättning och studerar italienska. Jag kan erbjuda översättning av facktexter och tolkning mellan tyska och svenska. 
+</p>
+</td> 
+<td valign="top"><p lang="de">Mein Name ist Amanda und meine größten Interessen sind Sprachen und Literatur. Ich habe ein Magisterexamen in Deutscher Sprache und Literatur mit Schwerpunkt Fachübersetzung. Meine Dienste sind Übersetzung von Fachtexten und Delmetschen zwischen Deutsch und Schwedisch.
 </p>
 </td>
-<td><p lang="de">
-<center><a href="Lebenslauf_AmandaSandberg.pdf">Lebenslauf</a></center>
-</p>
-</td>
+</tr>
+<tr>
+<td><center><a href="CV_AmandaSandberg.pdf">CV</a></center></td>
+<td><center><a href="Lebenslauf_AmandaSandberg.pdf">Lebenslauf</a></center></td>
 </tr>
 <tr>
 <td colspan="2">
