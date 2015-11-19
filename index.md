@@ -12,12 +12,12 @@ title: "Amanda Sandberg Översättning"
 <th width="50%">
 <h2 lang="sv">översättning</h2>
 och tolkning
-<h3 lang="sv">svenska&nbsp;&mdash;&nbsp;tyska<br/>tyska&nbsp;&mdash;&nbsp;svenska</h3>
+<h3 lang="sv">tyska&nbsp;&mdash;&nbsp;svenska</h3>
 </th>
 <th>
 <h2 lang="de">Übersetzung</h2>
 und Dolmetschen
-<h3 lang="de">Swedisch&nbsp;&mdash;&nbsp;Deutsch<br/>Deutsch&nbsp;&mdash;&nbsp;Schwedisch</h3>
+<h3 lang="de">Deutsch&nbsp;&mdash;&nbsp;Schwedisch</h3>
 </th>
 </tr>
 </table>
@@ -32,10 +32,10 @@ und Dolmetschen
 </tr>
 
 <tr>
-<td valign="top"><p lang="sv">Mitt namn är Amanda och mina främsta intressen är språk och litteratur. Jag har en magister-examen i tyska med inriktning mot facköversättning och studerar italienska. Jag kan erbjuda översättning av facktexter och tolkning mellan tyska och svenska. 
+<td valign="top"><p lang="sv">Mitt namn är Amanda Sandberg och jag är diplomerad fack-översättare (Linnéuniversitetet). Jag har en magisterexamen i tyska och studerar för nuvarande italienska på grundnivå (B1). Jag har flera års erfahrenhet av textbearbetning, textframställning och översättning genom mina studier. Inte minst är det mitt stora intresse för språk och litteratur som gör att jag trivs i rollen som översättare. Jag kan erbjuda översättning av facktexter och tolkning mellan tyska och svenska. Kontakta mig gärna om du har frågor eller önskar en offert. 
 </p>
 </td> 
-<td valign="top"><p lang="de">Mein Name ist Amanda und meine größten Interessen sind Sprachen und Literatur. Ich habe ein Magisterexamen in Deutscher Sprache und Literatur mit Schwerpunkt Fachübersetzung. Meine Dienste sind Übersetzung von Fachtexten und Delmetschen zwischen Deutsch und Schwedisch.
+<td valign="top"><p lang="de">Mein Name ist Amanda Sandberg und ich bin Diplomfachüber-setzerin (Linnéuniversität). Ich habe ein Magisterexamen in Deutscher Sprache und studiere im Augenblick Italienisch (B1). Durch mein Studium habe ich mehrjährige Erfahrung in Text-bearbeitung, Texterstellung und Übersetzung. Nicht zuletzt ist es mein großes Interesse für Sprache und Literatur, das dazu beträgt, dass ich mich in der Rolle des Übersetzers wohlfühle. Meine Dienste sind Übersetzung von Fachtexten und Dolmetschen zwischen Deutsch und Schwe-disch. Kontaktieren Sie mich gerne, wenn Sie fragen haben oder ein Angebot einholen möchten.
 </p>
 </td>
 </tr>
