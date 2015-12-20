@@ -32,7 +32,7 @@ und Dolmetschen
 </tr>
 
 <tr>
-<td valign="top"><p lang="sv">Mitt namn är Amanda Sandberg och jag är diplomerad fack-översättare (Linnéuniversitetet). Jag har en magisterexamen i tyska och studerar för nuvarande italienska på grundnivå (B1). Jag har flera års erfahrenhet av textbearbetning, textframställning och översättning genom mina studier. Inte minst är det mitt stora intresse för språk och litteratur som gör att jag trivs i rollen som översättare. Jag kan erbjuda översättning av facktexter och tolkning mellan tyska och svenska. Kontakta mig gärna om du har frågor eller önskar en offert. 
+<td valign="top"><p lang="sv">Mitt namn är Amanda Sandberg och jag är diplomerad fack-översättare (Linnéuniversitetet). Jag har en magisterexamen i tyska och studerar för nuvarande italienska på grundnivå (B1). Jag har flera års erfarenhet av textbearbetning, textframställning och översättning genom mina studier. Inte minst är det mitt stora intresse för språk och litteratur som gör att jag trivs i rollen som översättare. Jag kan erbjuda översättning av facktexter och tolkning mellan tyska och svenska. Kontakta mig gärna om du har frågor eller önskar en offert. 
 </p>
 </td> 
 <td valign="top"><p lang="de">Mein Name ist Amanda Sandberg und ich bin Diplomfachüber-setzerin (Linnéuniversität). Ich habe ein Magisterexamen in Deutscher Sprache und studiere im Augenblick Italienisch (B1). Durch mein Studium habe ich mehrjährige Erfahrung in Text-bearbeitung, Texterstellung und Übersetzung. Nicht zuletzt ist es mein großes Interesse für Sprache und Literatur, das dazu beträgt, dass ich mich in der Rolle des Übersetzers wohlfühle. Meine Dienste sind Übersetzung von Fachtexten und Dolmetschen zwischen Deutsch und Schwe-disch. Kontaktieren Sie mich gerne, wenn Sie fragen haben oder ein Angebot einholen möchten.
@@ -70,11 +70,17 @@ und Dolmetschen
 </p>
 </td>
 </tr>
-
 </table>
 
 <div class="footer" lang="sv">
 <a href="mailto:amandasandberg@hotmail.com">amandasandberg@hotmail.com</a><br/>
 
 Amanda Sandberg &ndash; Storgatan 11 &ndash; 364 31 Åseda &ndash; 070 / 602 77 22
+
+<table width="100%">
+<tr>
+	<td width="50%" lang="sv" valign="top">Godkänd för F-skatt</td>
+	<td lang="de">Inhaberin eines schwedischen Gewerbescheins (F-skattsedel)</td>
+</tr>
+</table>
 </div>
