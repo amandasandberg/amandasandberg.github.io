@@ -8,9 +8,9 @@
 html { height: 100%; }
 body { 
 	font-family: "Libre Baskerville", serif; 
-	padding: 2cm 0 2cm 0;
+	padding: 2cm 1em 2cm 1em;
 	margin: 0 auto;
-	width: 640px;
+	width: 520px;
 	color: black;
 	background-image: url(humla.png);
 	background-position: 10% 90%;
@@ -29,7 +29,9 @@ h3 { font-size: 18px; font-style: italic; margin-bottom: 0; }
 h1 span { }
 h1 a { text-decoration: none; color: SaddleBrown; }
 
-p { text-align: justify; padding: 1em; }
+p { text-align: justify; padding: 0.5em 0; margin: 0;}
+
+p span { text-indent: 1em; display: block; }
 
 a { text-decoration: none; }
 
