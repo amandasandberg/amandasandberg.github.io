@@ -8,7 +8,7 @@ I Girona kan man promenera längs med en grönskande gammal mur, i en slags sago
 
 Och om det inte vore för att jag redan har gått i flera timmar, hade jag sett efter, var dessa vägar hade fört mig.
 
-Man kan som ensamresenär sitta.....
+Man kan som ensamresenär sitta på en av de små barerna, äta vegetarisk hamburgare, sallad med brieost och jordgubbsylt och ett glas vitt som bara kostar tre euro.
 
 Det är först i Girona som det faller på plats.
 
