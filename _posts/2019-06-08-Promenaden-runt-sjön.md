@@ -4,7 +4,7 @@ title: "Promenaden runt sjön"
 ---
 
 De flesta dagar i Tyskland går jag de två timmarna runt sjön. En hälsokur. Man borde alltid promenera två timmar per dag. 
-Till varje nervös patient som gråtande ramlar in på Vårdcentralen borde man ögonblickligen ordinera två timmars daglig promenad, man borde putta ut dem i motionsspåret, ut i naturreservaten.
+Till varje nervös patient som gråtande ramlar in på Vårdcentralen borde man ögonblickligen ordinera två timmars daglig promenad.
 
 Rapsen blommar. Träden hänger ner i sjön. Inga getingar, inga humlor.
 
