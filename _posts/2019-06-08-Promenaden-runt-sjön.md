@@ -10,7 +10,7 @@ Rapsen blommar. Träden hänger ner i sjön. Inga getingar, inga humlor.
 
 
 På soliga dagar seglar många pyttesmå segelbåtar på sjön. De är blänkande vita. Ibland har de tävling. Ett sådant harmlöst fritidsintresse, tänker jag.
-<span>En fiskare sitter i en eka mitt på sjön. </span> Ibland ser jag en pensionär sitta på en bänk, två pensionärer på cykekltur, en grupp pensionärer som långsamt går en bit längs vattnet efter _Kaffee und Kuchen_.
+<span>En fiskare sitter i en eka mitt på sjön.Ibland ser jag en pensionär sitta på en bänk, två pensionärer på cykekltur, en grupp pensionärer som långsamt går en bit längs vattnet efter _Kaffee und Kuchen_.</span>
 
 På vägen hem köper jag en studsboll i studsbollsmaskinen som står utanför det italienska glasscaféet som har öppnat för säsongen. 
 
