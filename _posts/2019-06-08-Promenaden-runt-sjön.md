@@ -13,3 +13,5 @@ På soliga dagar seglar många pyttesmå segelbåtar på sjön. De är blänkand
 <span>En fiskare sitter i en eka mitt på sjön. </span> Ibland ser jag en pensionär sitta på en bänk,
 två pensionärer på cykekltur, en grupp pensionärer som långsamt går en bit längs vattnet efter _Kaffee und Kuchen_.
 
+På vägen hem köper jag en studsboll i studsbollsmaskinen som står utanför det italienska glasscaféet som har öppnat för säsongen. 
+
